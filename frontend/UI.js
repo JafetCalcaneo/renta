@@ -20,9 +20,9 @@ class UI {
                         <div class="col-md-8">
                             <div class="card-block px-2">
                                 <h4 class="card-title">${car.nombre}</h4>
-                                <p class="card-text">${car.marca}</p>
-                                <p class="card-text">${car.color}</p>
-                                <p class="card-text">${car.matricula}</p>
+                                <p class="card-text">Agencia: ${car.marca}</p>
+                                <p class="card-text">Color: ${car.color}</p>
+                                <p class="card-text">Matricula: ${car.matricula}</p>
                                 <a href="#" class="btn btn-danger delete" _id="${car._id}">X</a>
                             </div>
                         </div>
