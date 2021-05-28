@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://renta/./frontend/styles/app.css"],"names":[],"mappings":"AAAA;IACI,mBAAmB;AACvB;;;AAGA;IACI,YAAY;AAChB,C","file":"css/bundle.css","sourcesContent":["body {\r\n    background: #40739e;\r\n}\r\n\r\n\r\n.form-group {\r\n    margin: 10px;\r\n}"],"sourceRoot":""}

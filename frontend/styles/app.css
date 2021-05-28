@@ -1,0 +1,18 @@
+body {
+    background: #40739e;
+}
+.card-block px-2:hover{
+    cursor: pointer;
+    transform: scale(1.05, 1.05);
+    background-color:#fe8325
+
+}
+
+
+
+
+
+
+.form-group {
+    margin: 10px;
+}
